@@ -1,4 +1,5 @@
-ETL Decisions
+## ETL Decisions
+
 Decision 1 — Standardizing Date Formats
 Problem: The raw data had dates written in many different ways, like 29/08/2023, 12-12-2023, and 2023-01-15. This makes it impossible for the computer to sort them or know which month came first.
 

@@ -1,3 +1,5 @@
+## Database Recommendation
+
 For a patient management system, I recommend starting with MySQL.
 
 In healthcare, accuracy is the most important factor. If a doctor updates a patient’s allergy list, that information must be saved perfectly and visible to everyone else immediately. MySQL uses a system called ACID, which is basically a "perfectionist" approach to data. It ensures that every change is either 100% completed or not done at all, preventing half-finished or messy records. In terms of the CAP Theorem, MySQL focuses on Consistency. This means every user sees the exact same data at the exact same time, which is critical for patient safety.
